@@ -1,6 +1,4 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/will-rowe/banner/master/misc/logo/banner-logo-with-text.png" alt="banner-logo" width="250">
-    <hr>
     <a href="https://travis-ci.org/will-rowe/banner"><img src="https://travis-ci.org/will-rowe/banner.svg?branch=master" alt="travis"></a>
     <a href='http://hulk.readthedocs.io/en/latest/?badge=latest'><img src='https://readthedocs.org/projects/hulk/badge/?version=latest' alt='Documentation Status' /></a>
     <a href="https://github.com/will-rowe/banner/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-orange.svg" alt="License"></a>
